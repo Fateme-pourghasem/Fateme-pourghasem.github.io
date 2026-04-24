@@ -1,0 +1,73 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Fateme Pourghasem
+    - name: Location
+      value: Toronto, Ontario, Canada
+    - name: Languages
+      value: English, Persian (Farsi)
+    - name: Focus areas
+      value: Data science, machine learning, health informatics, virtual rehabilitation, digital health
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD (completed)
+      institution: University of Toronto — feasibility and evaluation of AI-based virtual rehabilitation assistants
+      year: 2025
+      description:
+        - Dissertation work on pilot testing of an AI-based virtual assistant to support virtual rehabilitation among healthy adults.
+        - Mixed methods and human-factors oriented evaluation for clinical translation.
+    - title: Biomedical Engineering (graduate training)
+      institution: University of Toronto / affiliated hospital research institutes
+      year: ""
+      description:
+        - Quantitative methods, health technology assessment, and rehabilitation science collaborations.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Data Scientist
+      institution: Canadian Institute for Health Information (CIHI)
+      year: Present
+      description:
+        - National health data, indicators, and analytics supporting Canadian health systems.
+        - Rigorous data engineering, statistical analysis, and reproducible reporting for policy stakeholders.
+    - title: Research — virtual rehabilitation & AI
+      institution: Collaborations with University of Toronto and clinical partners (e.g., Toronto Rehabilitation / KITE ecosystem)
+      year: ""
+      description:
+        - Co-design and evaluation of adaptive virtual assistants and AI-driven rehabilitation tools.
+        - Systematic and scoping evidence synthesis bridging clinical practice and ML systems.
+
+- title: Selected publications
+  type: time_table
+  contents:
+    - title: See <a href="/publications/">Publications</a> for the full list with links
+      year: ""
+      description:
+        - First-author scoping review on digital avatars in virtual rehabilitation (2025).
+        - Co-authored clinical and methods papers on adaptive virtual assistants and AI rehabilitation systems.
+
+- title: Technical toolkit
+  type: nested_list
+  contents:
+    - title: Languages & core
+      items:
+        - Python (data analysis, modeling, scripting for research pipelines)
+        - SQL and relational data for health analytics
+    - title: ML & AI
+      items:
+        - Supervised learning, evaluation metrics, responsible deployment considerations
+        - Interest and applied work in generative AI and conversational / assistant interfaces for care
+    - title: Practices
+      items:
+        - Version control (Git/GitHub), reproducible notebooks, documentation for cross-functional teams
+        - Literature review methods (including scoping reviews) for fast, credible landscape summaries
+
+- title: Community
+  type: list
+  contents:
+    - Open-source and hackathon participation (e.g., AI hackathon teams on GitHub)
+    - Mentoring-style knowledge sharing through repositories and portfolio projects
