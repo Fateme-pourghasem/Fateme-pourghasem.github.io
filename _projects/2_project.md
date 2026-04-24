@@ -1,12 +1,12 @@
 ---
 layout: page
-title: AI Hackathon 2025
-description: Rapid prototyping and teamwork under time pressure — Gen AI and applied ML.
+title: Multi-Agent Event Planner
+description: Google Cloud Hackathon — Google ADK, Vertex AI, LangGraph, MCP, ChromaDB.
 img: assets/img/3.jpg
 importance: 2
 category: engineering
 ---
 
-Team contribution to [**AIHackathon2025**](https://github.com/Fateme-pourghasem/AIHackathon2025) — end-to-end ideation, implementation, and demo storytelling in a compressed schedule.
+Built a planner/executor **multi-agent system** using **Google ADK** and **Vertex AI** with hierarchical delegation across sub-agents, tool-routed via **MCP** (Calendar, Maps, Weather). Added a **ChromaDB-backed RAG** layer for grounded fact verification and instrumented token + latency tracing to optimize cost-per-request.
 
-Hackathons are a useful signal for hiring managers: comfort with **ambiguous problem statements**, **collaboration across roles**, and **shipping a vertical slice** (data → model or API → UI or notebook) rather than only slide decks.
+Shipped end-to-end in 24 hours and placed **4th of 20 teams**.

@@ -1,18 +1,17 @@
 ---
 layout: page
 title: AI & virtual rehabilitation
-description: Scoping reviews, co-design, and feasibility work on AI assistants for telerehabilitation.
+description: Clinical AI systems at UHN–KITE: RAG intake agent + AVA rehab vision pipeline.
 img: assets/img/7.jpg
 importance: 1
 category: research
 related_publications: pourghasem2025scoping, gopaul2024adaptive, pourghasem2025thesis, abedi2024ava
 ---
 
-This thread of work connects **human-centered design**, **clinical rehabilitation**, and **machine learning** for **virtual care**.
+This work connects **clinical rehabilitation**, **human-centered design**, and **machine learning** for **virtual care** — with a focus on systems that are deployable, auditable, and measurable in real settings.
 
-- **Evidence synthesis**: first-author scoping review on **digital avatars** in virtual rehabilitation, mapping how avatars are used and what outcomes are reported (*Disability and Rehabilitation*, 2025).
-- **Systems thinking**: co-design of an **adaptive virtual assistant** for upper-limb stroke rehabilitation with clinical and engineering partners (*Archives of Physical Medicine and Rehabilitation*, 2024).
-- **Rigorous evaluation**: doctoral feasibility pilots of an **AI-based virtual assistant** among healthy adults to de-risk deployment in real telerehabilitation workflows (University of Toronto, 2025).
-- **Engineering contributions** to **AVA** (AI-driven Virtual Rehabilitation Assistant) and related assistant prototypes.
+- **Triage Avatar**: production **RAG** pipeline over structured + unstructured clinical data powering a conversational agent for structured patient intake, with hallucination guardrails and auditability.
+- **AVA (Lead, $250K)**: real-time computer vision pipeline using **MediaPipe** for pose estimation and biomechanical classification on live video; deployed with **React** and **Azure** in a clinical setting with 20 participants.
+- Publications include a first-author scoping review on **digital avatars** in virtual rehabilitation (2025) and co-authored work on an **adaptive virtual assistant** for post-stroke upper-limb rehabilitation (2024).
 
 Together, these projects show ability to **frame ambiguous clinical problems**, **ship prototypes**, and **publish** in peer-reviewed rehabilitation and digital health venues.

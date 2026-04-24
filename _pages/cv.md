@@ -4,7 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-description: Interactive curriculum vitae — experience, education, and technical focus. Add a PDF via `cv_pdf` in this file when you have one to host under `assets/pdf/`.
+cv_pdf: FayePourghasem.pdf
+description: Curriculum vitae — experience, education, and technical focus.
 toc:
   sidebar: left
 ---

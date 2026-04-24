@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Algorithms & data structures practice
-description: LeetCode-style preparation — disciplined problem solving in Python.
+title: AgeUnity
+description: Co-founder — 1st Prize at AGE-WELL Summer Institute; recommendation system prototype.
 img: assets/img/11.jpg
 importance: 3
 category: practice
 ---
 
-Repository [**leetcode-practice**](https://github.com/Fateme-pourghasem/leetcode-practice) tracks ongoing work on **algorithms**, **complexity**, and **clean Python** implementations.
+Co-founded AgeUnity and designed/prototyped a personalized recommendation system matching users by interests and proximity. Co-built with SmartONE as a pilot client and iterated with an embedded end user through weekly feedback cycles, turning ambiguous product goals into a shipped specification.
 
-This complements applied ML work by keeping core CS skills sharp for **production code reviews**, **efficient data structures** in pipelines, and **technical interviews**.
+Led technical architecture and product direction across a 5-person cross-functional team, converting field insights into roadmap priorities and the Mitacs Accelerate funding case.

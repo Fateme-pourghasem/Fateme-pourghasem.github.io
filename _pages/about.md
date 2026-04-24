@@ -19,7 +19,9 @@ social: true
 
 I am a **data scientist** and **biomedical engineer** focused on **machine learning**, **health informatics**, and **virtual care**. My work sits where rigorous quantitative methods meet real-world healthcare delivery: from literature synthesis and study design to prototyping assistants that clinicians and patients can actually use.
 
-At [**Canadian Institute for Health Information (CIHI)**](https://www.cihi.ca/en), I contribute to national-scale health data infrastructure and analytics that inform policy and system performance. In parallel, my research with the **KITE** / **Toronto Rehabilitation Institute** ecosystem has centered on **AI-supported virtual rehabilitation** — including **digital avatars**, **adaptive virtual assistants**, and feasibility testing of **AI-driven telerehabilitation** tools. I care about **transparency**, **co-design with clinicians and patients**, and evidence that holds up outside the lab.
+I currently work as a **Data Scientist at CIHI** (Toronto), where I ship production ML systems on large-scale administrative health datasets (e.g., **XGBoost** models and monitored batch pipelines) with strong governance and reliability requirements.
+
+Previously, I was an **AI Research Developer at UHN – KITE Research Institute**, building clinical AI systems end-to-end. This included a production **RAG** pipeline for a conversational intake agent (“Triage Avatar”) and leading AVA — a real-time computer-vision rehabilitation system using **MediaPipe** for pose estimation and biomechanical classification, deployed with **React** and **Azure** in a clinical setting.
 
 Technically, I am comfortable owning problems end-to-end: **Python** for modeling and pipelines, **experiment design**, **literature and scoping methods**, collaboration across **clinical**, **engineering**, and **product** stakeholders, and communicating results to both **technical** and **executive** audiences. I am motivated by teams that value **curiosity**, **intellectual honesty**, and **shipping** dependable systems.
 
@@ -27,9 +29,9 @@ Technically, I am comfortable owning problems end-to-end: **Python** for modelin
 
 - First-author **scoping review** on digital avatars in virtual rehabilitation (*Disability and Rehabilitation*, 2025).
 - Co-authored work on an **adaptive virtual assistant** for upper-limb stroke rehabilitation (*Archives of Physical Medicine and Rehabilitation*, 2024).
-- **Doctoral research** (University of Toronto) on **feasibility pilot testing** of an AI-based virtual assistant for virtual rehabilitation.
-- Contributor to **AVA** (AI-driven Virtual Rehabilitation Assistant) and related rehabilitation-AI initiatives.
+- Built and shipped **AVA** (AI-driven Virtual Rehabilitation Assistant) and related clinical prototypes in a customer-facing setting.
+- Built multi-agent and RAG systems using **Google ADK**, **Vertex AI**, **LangGraph**, and **MCP** (hackathon + production work).
 
 Outside of work I enjoy staying current on **generative AI** tooling, **open-source** collaboration, and continuous learning through side projects and hackathons.
 
-For collaborations or opportunities, [**LinkedIn**](https://www.linkedin.com/in/fatmepourghasem/) is the best channel.
+For collaborations or opportunities, [**LinkedIn**](https://www.linkedin.com/in/fpourghasem/) is the best channel. My CV is available on the [**CV page**](/cv/).
