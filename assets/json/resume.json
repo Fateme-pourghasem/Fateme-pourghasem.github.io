@@ -1,200 +1,218 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Faye Pourghasem",
+    "label": "AI Developer & Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "fatemepourghasem7@gmail.com",
+    "phone": "(437) 553-0767",
+    "url": "https://fateme-pourghasem.github.io/",
+    "summary": "AI developer shipping production GenAI and agentic systems into regulated, customer-facing environments. MASc from University of Toronto in Biomedical Engineering (AI for Clinical Systems). Hands-on with LLM fine-tuning, Google ADK, Vertex AI, LangGraph, and MCP.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Toronto",
+      "countryCode": "CA",
+      "region": "Ontario"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "fpourghasem",
+        "url": "https://linkedin.com/in/fpourghasem"
+      },
+      {
+        "network": "GitHub",
+        "username": "Fateme-pourghasem",
+        "url": "https://github.com/Fateme-pourghasem"
+      },
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=QS0AxSMAAAAJ"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Canadian Institute for Health Information (CIHI)",
+      "position": "Data Scientist",
+      "url": "https://www.cihi.ca/",
+      "startDate": "2025-06-01",
+      "summary": "Building production ML systems on 10+ TB of national healthcare data consumed by internal leadership and the WHO.",
+      "highlights": [
+        "Shipped production XGBoost models predicting healthcare staff shortages across 13 provinces; containerized on Databricks with MLflow-tracked experiments.",
+        "Architected Airflow DAGs integrating 5+ legacy health data silos, reducing ingestion-to-model latency by 70% under PHIPA governance.",
+        "Built evaluation and observability frameworks tracking prediction drift, input validity, and latency across weekly batch cycles."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "University Health Network (UHN) — KITE Research Institute",
+      "position": "AI Research Developer",
+      "url": "https://kfrg.kite-uhn.com/",
+      "startDate": "2023-01-01",
+      "endDate": "2025-06-01",
+      "summary": "Built clinical AI systems end-to-end, including RAG pipelines, computer vision, and conversational agents for healthcare.",
+      "highlights": [
+        "Triage Avatar: Architected a production RAG pipeline powering a conversational LLM agent for structured patient intake with hallucination guardrails and voice-to-text ingestion.",
+        "AVA (Lead, $250K): Built a real-time computer vision pipeline using MediaPipe for pose estimation, deployed on React + Azure in a clinical setting; co-authored 2 first-author publications."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Toronto",
+      "url": "https://www.utoronto.ca/",
+      "area": "Biomedical Engineering — AI for Clinical Systems",
+      "studyType": "MASc",
+      "startDate": "2022-09-01",
+      "endDate": "2025-01-01"
+    },
+    {
+      "institution": "Tehran University of Medical Sciences",
+      "url": "https://tums.ac.ir/",
+      "area": "Health Information Technology",
+      "studyType": "BSc",
+      "startDate": "2016-09-01",
+      "endDate": "2020-06-01"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "4th Place — Google Cloud Hackathon",
+      "date": "2025-09-01",
+      "awarder": "Google Cloud",
+      "summary": "Built a multi-agent event planner with Google ADK, Vertex AI, LangGraph, and MCP-driven tool routing in 24 hours."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "1st Prize — AGE-WELL Summer Institute",
+      "date": "2023-06-01",
+      "awarder": "AGE-WELL NCE",
+      "summary": "Co-founded AgeUnity, a personalized recommendation system for older adults. Led technical architecture across a 5-person team."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "The use of digital avatars to improve virtual rehabilitation health outcomes amongst adults with health conditions: a scoping review",
+      "publisher": "Disability and Rehabilitation, Taylor & Francis",
+      "releaseDate": "2025",
+      "url": "https://scholar.google.com/citations?user=QS0AxSMAAAAJ",
+      "summary": "First-author scoping review on digital avatars for virtual rehabilitation."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Feasibility Pilot Testing of an AI-based Virtual Assistant among Healthy Adults to Support Virtual Rehabilitation",
+      "publisher": "University of Toronto (MASc Thesis)",
+      "releaseDate": "2025"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "TypeScript",
+        "SQL",
+        "C++"
+      ]
+    },
+    {
+      "name": "GenAI & Agentic AI",
+      "keywords": [
+        "LLM fine-tuning",
+        "RAG",
+        "Google ADK",
+        "LangChain",
+        "LangGraph",
+        "CrewAI",
+        "MCP",
+        "ReAct",
+        "Multi-agent orchestration",
+        "Prompt engineering"
+      ]
+    },
+    {
+      "name": "ML & Computer Vision",
+      "keywords": [
+        "XGBoost",
+        "scikit-learn",
+        "PyTorch",
+        "Hugging Face Transformers",
+        "MediaPipe",
+        "Speech-to-text"
+      ]
+    },
+    {
+      "name": "Cloud & Infrastructure",
+      "keywords": [
+        "Vertex AI",
+        "BigQuery",
+        "GCP",
+        "Azure",
+        "Databricks",
+        "Docker",
+        "Airflow",
+        "MLflow",
+        "FAISS",
+        "ChromaDB"
+      ]
+    },
+    {
+      "name": "Evaluation & Observability",
+      "keywords": [
+        "RAGAS",
+        "Drift detection",
+        "Latency monitoring",
+        "Cost-per-request",
+        "Token tracing"
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "keywords": [
+        "Pandas",
+        "NumPy",
+        "PostgreSQL",
+        "Spark",
+        "ETL",
+        "Schema validation"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Fluent"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "Farsi",
+      "fluency": "Native"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Multi-Agent Event Planner",
+      "startDate": "2025-09-01",
+      "description": "Planner/executor multi-agent system on Google ADK and Vertex AI with hierarchical delegation via MCP-driven tool routing. ReAct reasoning with ChromaDB-backed RAG.",
+      "highlights": [
+        "4th of 20 teams at Google Cloud Hackathon"
+      ],
+      "keywords": [
+        "Google ADK",
+        "Vertex AI",
+        "LangGraph",
+        "MCP",
+        "ChromaDB"
+      ]
+    },
+    {
+      "name": "AgeUnity",
+      "startDate": "2023-06-01",
+      "endDate": "2024-06-01",
+      "description": "Personalized recommendation system matching users by interests and proximity. Led technical architecture and secured Mitacs Accelerate funding.",
+      "highlights": [
+        "1st Prize at AGE-WELL Summer Institute"
+      ],
+      "keywords": [
+        "Recommendation Systems",
+        "Product Leadership",
+        "Mitacs"
+      ]
     }
   ]
 }
