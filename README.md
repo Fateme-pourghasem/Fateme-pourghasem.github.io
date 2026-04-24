@@ -1,6 +1,6 @@
 # fateme-pourghasem.github.io
 
-Personal academic and professional portfolio for **Fateme Pourghasem**, built with the [**al-folio**](https://github.com/alshedivat/al-folio) Jekyll theme.
+Personal academic and professional portfolio for **Faye Pourghasem**, built with the [**al-folio**](https://github.com/alshedivat/al-folio) Jekyll theme.
 
 **Live site:** [https://fateme-pourghasem.github.io](https://fateme-pourghasem.github.io)
 
